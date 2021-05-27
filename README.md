@@ -1,7 +1,7 @@
 # Pain-Relief-from-Analgesic-Drugs
 
-STA104 Project 1
-Winter 2021
+STA104 Project 1,
+Winter 2021,
 Professor Amy Kim, Kevin Xu
 
 A term project in which I conduct Nonparametric Statistical analysis using a permutation test (medians), Wilcoxon Rank-Sum test, and Kolmogorov-Smirnov test to draw inferences of whether there is a difference in pain relief duration between two over the counter analgesic drugs.
